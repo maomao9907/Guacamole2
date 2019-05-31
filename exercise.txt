@@ -3,3 +3,4 @@ I am adding a line here
 I am adding another line here
 Now I am modifying the text on github ul
 Now I have downloaded the online version and change it locally
+Now I will create a conflict
